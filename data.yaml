@@ -1,0 +1,10 @@
+path: E:/Dataset/RSOD-Dataset/
+train: ./images/train
+val: ./images/val
+test: ./images/test
+
+# number of classes
+nc: 4
+
+# class names
+names: ['aircraft', 'oiltank', 'overpass', 'playground']
